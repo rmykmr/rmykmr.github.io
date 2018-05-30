@@ -1,4 +1,4 @@
-# main links links
+r# main links links
 main:
   - title: "Publications"
     url: /publications/
@@ -12,7 +12,7 @@ main:
   - title: "Videos"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Research Interests"
     url: /year-archive/
     
   - title: "CV"
