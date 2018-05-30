@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Graduate Student Instructor"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Chemical and Engineering Thermodynamics"
+permalink: /teaching/thermo
+venue: "Department of Chemical Engineering, University of Michigan Ann Arbor"
+date: January-May 2015
+location: "Michigan, USA"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
