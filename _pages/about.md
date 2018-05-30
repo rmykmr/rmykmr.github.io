@@ -7,20 +7,20 @@ redirect_from:
   - /about/
   - /about.html
 
-
+permalink: /
 
 title: "Research Interests"
-excerpt: "About me"
+excerpt: "research"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /research/
+  - /research.html
 ---
-
+permalink: /
 title: "Teaching Interests"
-excerpt: "About me"
+excerpt: "Teachingi"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /Teachingi/
+  - /Teachingi.html
 ---
