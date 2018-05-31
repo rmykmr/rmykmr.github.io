@@ -1,10 +1,9 @@
-
 ---
 title: "Examining Interfacial Kinetics on Electrostatically Heterogeneous Surfaces using Zeta-potential Measurements."
 collection: publications
 permalink: /publication/Langmuir2017
 excerpt: ''
-date: 2016-06-07
+date: 2017-06-12
 venue: 'Langmuir'
 citation: 'Kumar,R., Kopyeva,I., Cheng,K.C., Liu,K. & Lahann,J. (2017) Examining Interfacial Kinetics on Electrostatically Heterogeneous Surfaces using zeta-potential Measurements. Langmuir,33 (25), pp 6322-6332.'
 ---
