@@ -1,7 +1,7 @@
 ---
 title: "Engineering Teaching Consultant"
 collection: teaching
-type: ""
+type: "Improving Instructional Outcomes in the College of Engineering"
 permalink: /teaching/crlt
 venue: "Center for Research on Learning & Teaching, University of Michigan Ann Arbor"
 date: August 2015 -August 2017
