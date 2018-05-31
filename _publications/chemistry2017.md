@@ -5,7 +5,6 @@ permalink: /publication/chemistry2017
 excerpt: ''
 date: 2017-09-27
 venue: 'Chemistry: A European Journal'
-paperurl: 'http://rmykmr.github.io/files/chemistry2017.pdf'
 citation: 'Bally-Le Gal, F., Hussal,C., Kramer, J.J.P., Cheng,K.C.,Kumar,R., Eyster,T., Trouillet,V., Nieger,M., Brase,S.,& Lahann,J. (2017) Chemistry: A European Journal, 23, 13342-13350.'
 ---
 
