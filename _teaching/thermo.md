@@ -3,7 +3,7 @@ title: "Graduate Student Instructor"
 collection: teaching
 type: "Chemical and Engineering Thermodynamics"
 permalink: /teaching/thermo
-venue: "Department of Chemical Engineering, University of Michigan Ann Arbor"
+venue: "Department of Chemical Engineering, University of Michigan, Ann Arbor"
 date: January-May 2015
 location: "Michigan, USA"
 ---
