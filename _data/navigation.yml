@@ -13,7 +13,7 @@ main:
     url: /portfolio/
         
   - title: "Research Interests"
-    url: /year-archive/
+    url: /research/
     
   - title: "CV"
     url: /cv/
