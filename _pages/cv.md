@@ -49,7 +49,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service 
 ======
 * Reviewer: Soft matter, IEEE Transactions on NanoBioscience, ACS AMI, Polymer chemistry, RSC Advances. 
 * Volunteer: Explore Engineering outreach program, organizing exhibits and explaining biomaterials engineering concepts to middle school students.
