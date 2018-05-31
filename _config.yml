@@ -92,14 +92,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/ramya-kumar-580b8810"
-    pinterest        :
+  linkedin         :
+  orcid            : 
+  pinterest        :
   soundcloud       :
-   steam            :
+  stackoverflow    : 
+  steam            :
   tumblr           :
   twitter          : 
   vine             :
@@ -107,7 +110,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
 
 # Reading Files
 include:
