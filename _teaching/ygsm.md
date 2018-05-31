@@ -1,8 +1,8 @@
 ---
 title: "Grad student mentor"
 collection: teaching
-type: "Lunch \& Lab with a grad student"
-permalink: /teaching/ygsm
+type: "Lunch & Lab with a grad student"
+permalink: /teaching/ygsm/
 venue: "College of Engineering, University of Michigan, Ann Arbor"
 date: May 2014 - August 2016
 location: "Michigan, USA"
