@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Why Viruses Stick: Sugar Coating the Answer"
+excerpt: "Researchers Engaged in Lay Audience Teaching and Communication"
 collection: portfolio
 ---
 
-{% include youtubePlayer.html id=page.cQfQpUzHrQ0&t %}
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=4iCq5SmdvJ4&t=10s" frameborder="0" allowfullscreen></iframe>
