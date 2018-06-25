@@ -1,5 +1,5 @@
 ---
-title: "Why Viruses Stick: Sugar Coating the Answer
+title: "Why Viruses Stick: Sugar Coating the Answer"
 excerpt: ""
 collection: portfolio
 ---
