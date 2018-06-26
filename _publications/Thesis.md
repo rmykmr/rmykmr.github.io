@@ -10,4 +10,4 @@ citation: 'PhD Thesis.'
 
 Polymer brushes are versatile surface modification tools, wherein composition, architecture and biological functionality can be controlled precisely and independently. By growing biomimetic polymer chains from substrate-bound initiator sites through atom transfer radical polymerization (ATRP), engineered biointerfaces were developed for four application areas.
 
-[Download my thesis here](http://rmykmr.github.io/files/thesis.pdf)
+[Download my thesis here](http://rmykmr.github.io/files/Thesis.pdf)
