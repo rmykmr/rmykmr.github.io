@@ -5,7 +5,7 @@ permalink: /publication/ACSAMI2018
 excerpt: ""
 date: 2016-09-04
 venue: 'ACS Applied Materials & Interfaces'
-citation: 'Kumar, R. & Lahann,J. (2018) ACS Applied Materials & Interfaces, doi:10.1021/acsami.8b11525 .'
+citation: 'Kumar, R. & Lahann,J. (2018) ACS Applied Materials & Interfaces, 10, 38, 31965-31976.'
 ---
 
 ![acsami](/images/am-2018-11525g_0008.gif)
