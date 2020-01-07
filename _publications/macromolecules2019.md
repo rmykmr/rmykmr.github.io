@@ -1,4 +1,3 @@
-
 ---
 title: "Block Polymer Micelles Enable CRISPR/Cas9 Ribonucleoprotein Delivery: Physicochemical Properties Affect Packaging Mechanisms and Gene Editing Efficiency."
 collection: publications
