@@ -3,7 +3,7 @@ title: "Substrate-Independent Micropatterning of Polymer Brushes Based on Photol
 collection: publications
 permalink: /publication/ACSAMI2018
 excerpt: ""
-date: 2016-09-04
+date: 2018-09-04
 venue: 'ACS Applied Materials & Interfaces'
 citation: 'Kumar, R. & Lahann,J. (2018) ACS Applied Materials & Interfaces, 10, 38, 31965-31976.'
 ---
